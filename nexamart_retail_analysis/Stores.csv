@@ -1,0 +1,26 @@
+Store_ID,Store_Name,Region,County,Store_Type,Store_Size
+ST001,NexaMart Nairobi 1,Nairobi,Nairobi,Express,Medium
+ST002,NexaMart Nairobi 2,Nairobi,Kiambu,Hypermarket,Medium
+ST003,NexaMart Nairobi 3,Nairobi,Nairobi, supermarket,Large
+ST004,NexaMart Nairobi 4,Nairobi,Kiambu,Express,Medium
+ST005,NexaMart Nairobi 5,Nairobi,Nairobi,Supermarket,Medium
+ST006,NexaMart Central 1,Central,Murang'a,Supermarket,Large
+ST007,NexaMart Central 2,Central,Nyeri,Express,Large
+ST008,NexaMart Central 3,Central,Kirinyaga,Supermarket,Small
+ST009,NexaMart Central 4,Central,Murang'a,Express,Small
+ST010,NexaMart Western 1,Western,Kakamega,Express,Medium
+ST011,NexaMart Western 2,Western,Bungoma,Express,Medium
+ST012,NexaMart Western 3,Western,Vihiga,Hypermarket,Large
+ST013,NexaMart Western 4,Western,Kakamega,Express,Small
+ST014,NexaMart Coast 1,Coast,Mombasa,Supermarket,Small
+ST015,NexaMart Coast 2,Coast,Kilifi,Supermarket,Medium
+ST016,NexaMart Coast 3,Coast,Kwale,Express,medium 
+ST017,NexaMart Coast 4,Coast,Mombasa,Supermarket,Medium
+ST018,NexaMart Rift Valley 1,Rift Valley,Nakuru,Supermarket,Small
+ST019,NexaMart Rift Valley 2,Rift Valley,Uasin Gishu,Supermarket,Medium
+ST020,NexaMart Rift Valley 3,Rift Valley,Kericho,Supermarket,Medium
+ST021,NexaMart Rift Valley 4,Rift Valley,Nakuru,Supermarket,Large
+ST022,NexaMart Eastern 1,Eastern,Embu,Express,Small
+ST023,NexaMart Eastern 2,Eastern,Machakos,Express,Large
+ST024,NexaMart Eastern 3,Eastern,Meru,Supermarket,Small
+ST025,NexaMart Eastern 4,Eastern,Embu,Express,Small

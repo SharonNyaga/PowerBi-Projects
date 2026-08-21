@@ -1,0 +1,1001 @@
+Customer_ID,Customer_Name,Gender,Age_Group,Customer_Segment,Region
+C0001,Hassan Njoroge,Male,55+,,Western
+C0002,Samuel Akinyi,Female,55+,Consumer,Western
+C0003,Peter Muriuki,Male,25-34,Consumer,Eastern
+C0004,Sharon Njoroge,Female,25-34,Small Business,Coast
+C0005,Brian Njoroge,Female,55+,Consumer,Western
+C0006,Brian Kiptoo,Female,25-34,Consumer,Nairobi
+C0007,Irene Kariuki,Male,18-24,Consumer,Central
+C0008,Nancy Muriuki,Male,25-34,Consumer,Western
+C0009,Carol Kamau,Male,18-24,Small Business,Western
+C0010,Kevin Ochieng,Male,45-54,Consumer,Nairobi
+C0011,Hassan Kiptoo,Male,35-44,Consumer,Eastern
+C0012,Rose Mwangi,Male,25-34,Corporate,Eastern
+C0013,James Njoroge,Female,45-54,Consumer,Nairobi
+C0014,Esther Mutua,Male,45-54,Consumer,Western
+C0015,Brian Wambui,Female,55+,Consumer,Nairobi
+C0016,Samuel Kamau,Female,18-24,Small Business,Rift Valley
+C0017,Carol Akinyi,Male,55+,Consumer,Central
+C0018,Hassan Mwangi,Male,55+,Small Business,Coast
+C0019,Sharon Ochieng,Female,55+,Consumer,Rift Valley
+C0020,Nancy Akinyi,Female,35-44,Corporate,Rift Valley
+C0021,Lucy Muriuki,Male,18-24,Small Business,Nairobi
+C0022,Peter Ochieng,Female,35-44,Consumer,Eastern
+C0023,Mary Wambui,Female,55+,Consumer,Nairobi
+C0024,Irene Njoroge,Male,25-34,Small Business,Nairobi
+C0025,Lucy Otieno,Female,35-44,Consumer,Western
+C0026,Kevin Otieno,Female,18-24,Consumer,Central
+C0027,Nancy Kariuki,Female,45-54,Consumer,Eastern
+C0028,Esther Mutua,Male,18-24,Consumer,Rift Valley
+C0029,David Kariuki,Male,55+,Consumer,Central
+C0030,James Kariuki,Male,55+,Consumer,Eastern
+C0031,Esther Ochieng,Male,35-44,Consumer,Central
+C0032,Nancy Kamau,Female,25-34,Consumer,Western
+C0033,Esther Otieno,Female,35-44,Consumer,Nairobi
+C0034,Carol Mutua,Male,18-24,Consumer,Eastern
+C0035,Hassan Mwangi,Female,35-44,Consumer,Nairobi
+C0036,Faith Akinyi,Male,35-44,Consumer,Nairobi
+C0037,Sharon Kamau,Male,55+,Consumer,Western
+C0038,Carol Kamau,Female,55+,Consumer,Eastern
+C0039,Carol Mwangi,Male,35-44,Corporate,Eastern
+C0040,Samuel Muriuki,Male,18-24,Small Business,Rift Valley
+C0041,Amina Mwangi,Female,35-44,Consumer,Eastern
+C0042,Victor Otieno,Male,35-44,Small Business,Eastern
+C0043,David Maina,Male,55+,Consumer,Western
+C0044,James Njoroge,Male,35-44,Consumer,Central
+C0045,Hassan Maina,Male,55+,Consumer,Rift Valley
+C0046,George Mwangi,Female,45-54,Consumer,Rift Valley
+C0047,Sharon Kamau,Male,55+,Consumer,Central
+C0048,Irene Ochieng,Female,45-54,Consumer,Nairobi
+C0049,Victor Maina,Male,35-44,Consumer,Rift Valley
+C0050,George Njoroge,Female,55+,Consumer,Nairobi
+C0051,James Njoroge,Male,35-44,Consumer,Eastern
+C0052,George Akinyi,Female,35-44,Consumer,Nairobi
+C0053,Brian Njoroge,Female,35-44,Corporate,Nairobi
+C0054,Hassan Kariuki,Female,55+,Consumer,Eastern
+C0055,Rose Kiptoo,Female,55+,Small Business,Nairobi
+C0056,Victor Mwangi,Male,55+,Corporate,Nairobi
+C0057,Brian Mutua,Male,55+,Consumer,Coast
+C0058,Victor Akinyi,Male,18-24,Consumer,Eastern
+C0059,Amina Akinyi,Male,45-54,Consumer,Nairobi
+C0060,Amina Wambui,Male,18-24,Small Business,Central
+C0061,James Mwangi,Female,25-34,Consumer,Rift Valley
+C0062,Rose Akinyi,Female,45-54,Small Business,Eastern
+C0063,Hassan Kariuki,Male,55+,Consumer,Western
+C0064,David Ochieng,Male,45-54,Consumer,Nairobi
+C0065,Kevin Mwangi,Male,25-34,Small Business,Nairobi
+C0066,Sharon Kariuki,Female,55+,Consumer,Nairobi
+C0067,Sharon Kiptoo,Female,55+,Consumer,Nairobi
+C0068,Samuel Kiptoo,Female,35-44,Consumer,Rift Valley
+C0069,Wanjiku Muriuki,Male,45-54,Consumer,Nairobi
+C0070,Hassan Otieno,Female,55+,Consumer,Western
+C0071,Rose Mwangi,Male,55+,Consumer,Rift Valley
+C0072,George Muriuki,Male,45-54,Consumer,Coast
+C0073,Kevin Kiptoo,Female,55+,Corporate,Nairobi
+C0074,David Mutua,Male,45-54,Consumer,Rift Valley
+C0075,Mary Otieno,Female,55+,Consumer,Rift Valley
+C0076,Kevin Akinyi,Female,55+,Consumer,Rift Valley
+C0077,David Ochieng,Female,45-54,Consumer,Nairobi
+C0078,Victor Mwangi,Female,35-44,Small Business,Nairobi
+C0079,Wanjiku Mwangi,Female,35-44,,Eastern
+C0080,Sharon Kariuki,Male,55+,Consumer,Central
+C0081,Irene Wambui,Female,18-24,Consumer,Central
+C0082,Wanjiku Ochieng,Male,35-44,Consumer,Western
+C0083,Peter Kiptoo,Female,25-34,Small Business,Rift Valley
+C0084,Amina Njoroge,Male,35-44,Small Business,Eastern
+C0085,Carol Njoroge,Female,55+,Small Business,Central
+C0086,David Muriuki,Male,55+,Small Business,Eastern
+C0087,Lucy Muriuki,Female,55+,Consumer,Nairobi
+C0088,Brian Mwangi,Male,55+,Consumer,Western
+C0089,David Kiptoo,Female,55+,Small Business,Coast
+C0090,Brian Muriuki,Male,25-34,Corporate,Nairobi
+C0091,Samuel Otieno,Male,45-54,Small Business,Nairobi
+C0092,Victor Mutua,Female,35-44,Small Business,Central
+C0093,Kevin Wambui,Male,25-34,Small Business,Eastern
+C0094,Wanjiku Ochieng,Male,25-34,Consumer,Coast
+C0095,James Kariuki,Female,35-44,Consumer,Eastern
+C0096,Hassan Otieno,Female,25-34,Consumer,Rift Valley
+C0097,Rose Muriuki,Female,45-54,Small Business,Western
+C0098,Mary Otieno,Female,55+,,Rift Valley
+C0099,Esther Njoroge,Male,55+,Consumer,Nairobi
+C0100,Kevin Mutua,Male,35-44,Small Business,Nairobi
+C0101,Esther Kiptoo,Female,18-24,Consumer,Eastern
+C0102,Brian Otieno,Female,55+,Consumer,Rift Valley
+C0103,Victor Njoroge,Male,35-44,Consumer,Nairobi
+C0104,Esther Kiptoo,Male,55+,Consumer,Western
+C0105,Sharon Mutua,Male,45-54,Consumer,Coast
+C0106,Brian Ochieng,Female,18-24,Consumer,Eastern
+C0107,Victor Kariuki,Female,45-54,Small Business,Coast
+C0108,Kevin Ochieng,Female,18-24,Consumer,Central
+C0109,Nancy Mwangi,Male,25-34,Consumer,Central
+C0110,Esther Maina,Male,55+,Consumer,Western
+C0111,Victor Maina,Female,45-54,Consumer,Coast
+C0112,James Kiptoo,Male,45-54,Consumer,Eastern
+C0113,Irene Njoroge,Male,55+,Consumer,Western
+C0114,James Akinyi,Female,35-44,Consumer,Nairobi
+C0115,Lucy Mwangi,Female,45-54,Consumer,Nairobi
+C0116,Brian Mutua,Male,45-54,Consumer,Rift Valley
+C0117,Sharon Njoroge,Female,35-44,Consumer,Rift Valley
+C0118,Samuel Muriuki,Male,55+,Small Business,Nairobi
+C0119,Irene Ochieng,Male,55+,Small Business,Nairobi
+C0120,Mary Njoroge,Female,55+,Corporate,Coast
+C0121,Nancy Akinyi,Male,55+,Consumer,Nairobi
+C0122,Irene Mutua,Male,45-54,Consumer,Eastern
+C0123,Peter Ochieng,Female,18-24,Consumer,Central
+C0124,Peter Wambui,Female,45-54,Consumer,Nairobi
+C0125,Mary Otieno,Male,35-44,Small Business,Eastern
+C0126,Faith Kiptoo,Female,45-54,Small Business,Nairobi
+C0127,David Njoroge,Female,55+,Consumer,Central
+C0128,Kevin Mwangi,Male,25-34,Corporate,Nairobi
+C0129,Peter Kariuki,Female,25-34,Consumer,Nairobi
+C0130,James Maina,Female,55+,Consumer,Nairobi
+C0131,George Wambui,Female,25-34,Consumer,Nairobi
+C0132,Peter Otieno,Female,55+,Consumer,Nairobi
+C0133,Rose Kiptoo,Male,25-34,Small Business,Nairobi
+C0134,Irene Ochieng,Male,25-34,Consumer,Coast
+C0135,Hassan Mwangi,Female,25-34,Consumer,Rift Valley
+C0136,Hassan Muriuki,Female,35-44,Corporate,Central
+C0137,George Mwangi,Female,25-34,Consumer,Central
+C0138,Irene Muriuki,Female,18-24,Consumer,Western
+C0139,Esther Kiptoo,Male,55+,Small Business,Eastern
+C0140,James Mutua,Male,35-44,Small Business,Eastern
+C0141,Wanjiku Ochieng,Male,45-54,Small Business,Nairobi
+C0142,Victor Kiptoo,Male,55+,Consumer,Nairobi
+C0143,Brian Muriuki,Female,55+,Consumer,Nairobi
+C0144,James Ochieng,Female,35-44,Consumer,Nairobi
+C0145,Lucy Mutua,Male,55+,Consumer,Coast
+C0146,Esther Mwangi,Male,45-54,Small Business,Central
+C0147,Wanjiku Muriuki,Male,55+,Small Business,Nairobi
+C0148,George Otieno,Female,25-34,Consumer,Central
+C0149,Mary Mutua,Male,55+,Consumer,Western
+C0150,Lucy Mutua,Female,55+,,Nairobi
+C0151,David Muriuki,Female,25-34,Small Business,Eastern
+C0152,Irene Kamau,Male,55+,Corporate,Nairobi
+C0153,David Muriuki,Female,45-54,Small Business,Eastern
+C0154,Faith Akinyi,Male,55+,Consumer,Nairobi
+C0155,Nancy Akinyi,Male,25-34,Consumer,Eastern
+C0156,Faith Wambui,Male,55+,Consumer,Eastern
+C0157,Irene Akinyi,Female,18-24,Consumer,Eastern
+C0158,Rose Mutua,Male,55+,Consumer,Rift Valley
+C0159,Samuel Kariuki,Female,45-54,Consumer,Rift Valley
+C0160,Lucy Wambui,Male,45-54,Consumer,Coast
+C0161,Esther Kariuki,Male,25-34,Small Business,Rift Valley
+C0162,Brian Otieno,Female,55+,Corporate,Nairobi
+C0163,Hassan Mwangi,Female,25-34,Consumer,Western
+C0164,Irene Ochieng,Female,45-54,Small Business,Western
+C0165,Mary Muriuki,Male,35-44,Small Business,Eastern
+C0166,Irene Mutua,Female,25-34,Small Business,Western
+C0167,Esther Akinyi,Male,18-24,Corporate,Central
+C0168,Brian Wambui,Female,55+,Consumer,Coast
+C0169,David Wambui,Female,25-34,Consumer,Nairobi
+C0170,Rose Mwangi,Male,25-34,Small Business,Nairobi
+C0171,Faith Mutua,Female,45-54,Consumer,Western
+C0172,Carol Kamau,Male,25-34,Consumer,Central
+C0173,Esther Wambui,Male,55+,Consumer,Nairobi
+C0174,Amina Otieno,Female,25-34,Consumer,Central
+C0175,Rose Otieno,Female,35-44,Small Business,Central
+C0176,Sharon Mwangi,Male,45-54,Consumer,Central
+C0177,Brian Kariuki,Male,35-44,Consumer,Central
+C0178,Mary Kiptoo,Male,18-24,Consumer,Rift Valley
+C0179,Rose Otieno,Male,18-24,Corporate,Central
+C0180,Irene Kamau,Male,55+,Consumer,Eastern
+C0181,Peter Kamau,Male,55+,Corporate,Eastern
+C0182,Faith Ochieng,Female,45-54,Consumer,Western
+C0183,Kevin Muriuki,Male,25-34,Consumer,Central
+C0184,Hassan Maina,Male,55+,Small Business,Western
+C0185,Esther Maina,Male,55+,Corporate,Eastern
+C0186,Kevin Maina,Female,25-34,,Coast
+C0187,Wanjiku Kamau,Male,35-44,Small Business,Rift Valley
+C0188,Wanjiku Wambui,Female,25-34,Consumer,Western
+C0189,James Kamau,Male,45-54,Consumer,Coast
+C0190,Irene Mutua,Male,45-54,Consumer,Central
+C0191,Rose Mutua,Female,35-44,Small Business,Rift Valley
+C0192,Sharon Maina,Female,35-44,Small Business,Nairobi
+C0193,George Mwangi,Male,25-34,Corporate,Rift Valley
+C0194,Samuel Akinyi,Female,55+,Consumer,Eastern
+C0195,Peter Njoroge,Male,55+,Consumer,Nairobi
+C0196,Brian Ochieng,Female,35-44,Small Business,Coast
+C0197,Amina Kariuki,Female,55+,Small Business,Nairobi
+C0198,Brian Wambui,Male,55+,Consumer,Rift Valley
+C0199,Sharon Mwangi,Male,35-44,Small Business,Nairobi
+C0200,Esther Kiptoo,Male,25-34,Small Business,Eastern
+C0201,Esther Maina,Female,55+,Consumer,Nairobi
+C0202,Wanjiku Ochieng,Male,35-44,Consumer,Eastern
+C0203,Peter Akinyi,Male,35-44,Consumer,Rift Valley
+C0204,Irene Kamau,Male,18-24,Consumer,Coast
+C0205,Sharon Kariuki,Male,18-24,Consumer,Rift Valley
+C0206,Lucy Otieno,Female,55+,Small Business,Rift Valley
+C0207,Victor Muriuki,Male,25-34,Consumer,Eastern
+C0208,David Njoroge,Female,55+,,Nairobi
+C0209,Carol Wambui,Female,25-34,Small Business,Coast
+C0210,Brian Kamau,Female,18-24,Small Business,Nairobi
+C0211,Lucy Otieno,Male,45-54,Consumer,Coast
+C0212,Sharon Njoroge,Male,35-44,Consumer,Nairobi
+C0213,Peter Wambui,Female,55+,Consumer,Coast
+C0214,James Kamau,Female,25-34,Small Business,Coast
+C0215,Faith Ochieng,Female,55+,Consumer,Western
+C0216,Samuel Muriuki,Female,55+,Corporate,Western
+C0217,Sharon Kariuki,Female,45-54,Corporate,Rift Valley
+C0218,George Maina,Female,25-34,Corporate,Rift Valley
+C0219,Victor Otieno,Female,45-54,Consumer,Western
+C0220,Faith Wambui,Male,25-34,Consumer,Coast
+C0221,Mary Otieno,Male,35-44,Consumer,Eastern
+C0222,Nancy Mutua,Male,25-34,Corporate,Nairobi
+C0223,Brian Maina,Female,45-54,Consumer,Nairobi
+C0224,Brian Akinyi,Female,35-44,Consumer,Nairobi
+C0225,Peter Maina,Female,55+,Small Business,Coast
+C0226,Kevin Kamau,Male,35-44,Consumer,Central
+C0227,James Kamau,Male,45-54,Small Business,Rift Valley
+C0228,James Akinyi,Male,55+,Consumer,Rift Valley
+C0229,Peter Otieno,Female,55+,Consumer,Central
+C0230,James Kiptoo,Male,45-54,Consumer,Eastern
+C0231,James Akinyi,Male,45-54,Consumer,Rift Valley
+C0232,David Ochieng,Female,45-54,Consumer,Nairobi
+C0233,Amina Mutua,Female,45-54,Corporate,Central
+C0234,Peter Muriuki,Female,35-44,Consumer,Central
+C0235,David Otieno,Male,55+,Consumer,Nairobi
+C0236,Mary Mwangi,Female,35-44,Consumer,Nairobi
+C0237,Irene Njoroge,Male,25-34,Consumer,Eastern
+C0238,Victor Akinyi,Male,25-34,Corporate,Western
+C0239,Samuel Wambui,Male,35-44,Consumer,Central
+C0240,Faith Wambui,Female,45-54,Consumer,Rift Valley
+C0241,Lucy Maina,Male,45-54,Small Business,Western
+C0242,Kevin Wambui,Male,18-24,Small Business,Eastern
+C0243,Victor Njoroge,Female,35-44,Consumer,Rift Valley
+C0244,Samuel Mwangi,Female,45-54,Consumer,Western
+C0245,Wanjiku Ochieng,Male,25-34,Small Business,Central
+C0246,Rose Akinyi,Female,45-54,Consumer,Eastern
+C0247,Kevin Kamau,Male,45-54,Consumer,Rift Valley
+C0248,Mary Wambui,Female,45-54,Corporate,Eastern
+C0249,George Ochieng,Female,55+,Consumer,Nairobi
+C0250,David Kiptoo,Male,35-44,Consumer,Eastern
+C0251,Esther Otieno,Male,18-24,Consumer,Coast
+C0252,Amina Akinyi,Female,25-34,Consumer,Nairobi
+C0253,Nancy Kariuki,Female,25-34,Consumer,Coast
+C0254,Brian Akinyi,Male,18-24,Consumer,Rift Valley
+C0255,Samuel Otieno,Female,18-24,Consumer,Nairobi
+C0256,Irene Muriuki,Female,25-34,Consumer,Western
+C0257,Samuel Mutua,Male,35-44,Consumer,Eastern
+C0258,David Mutua,Male,45-54,Consumer,Central
+C0259,David Kariuki,Female,45-54,Corporate,Western
+C0260,Peter Mwangi,Male,25-34,Small Business,Western
+C0261,James Kiptoo,Female,55+,Consumer,Central
+C0262,Hassan Muriuki,Female,55+,Consumer,Eastern
+C0263,Hassan Ochieng,Male,18-24,Consumer,Rift Valley
+C0264,Irene Kiptoo,Male,25-34,Consumer,Nairobi
+C0265,Rose Kiptoo,Male,45-54,Corporate,Eastern
+C0266,Carol Kariuki,Female,18-24,Consumer,Eastern
+C0267,Esther Mwangi,Female,45-54,Consumer,Central
+C0268,James Otieno,Female,45-54,Consumer,Eastern
+C0269,Samuel Kiptoo,Male,18-24,Consumer,Nairobi
+C0270,Victor Kiptoo,Female,45-54,Small Business,Eastern
+C0271,Wanjiku Kiptoo,Female,35-44,Corporate,Rift Valley
+C0272,Wanjiku Mwangi,Male,45-54,Small Business,Coast
+C0273,Lucy Maina,Female,25-34,Small Business,Nairobi
+C0274,Mary Akinyi,Male,18-24,Consumer,Eastern
+C0275,Lucy Kiptoo,Female,45-54,Corporate,Nairobi
+C0276,Brian Muriuki,Male,45-54,Small Business,Nairobi
+C0277,James Muriuki,Male,35-44,Consumer,Nairobi
+C0278,Wanjiku Otieno,Male,55+,Consumer,Rift Valley
+C0279,David Wambui,Female,55+,Consumer,Nairobi
+C0280,Victor Kiptoo,Male,45-54,Consumer,Eastern
+C0281,Sharon Mutua,Female,55+,Small Business,Coast
+C0282,Esther Mutua,Male,55+,Small Business,Nairobi
+C0283,Faith Otieno,Male,18-24,Small Business,Nairobi
+C0284,David Ochieng,Female,45-54,Corporate,Nairobi
+C0285,George Njoroge,Female,55+,Consumer,Coast
+C0286,Rose Otieno,Female,55+,Consumer,Rift Valley
+C0287,Samuel Muriuki,Male,18-24,Small Business,Nairobi
+C0288,Irene Maina,Male,18-24,Corporate,Eastern
+C0289,Carol Wambui,Male,25-34,Consumer,Nairobi
+C0290,Carol Njoroge,Female,25-34,Corporate,Rift Valley
+C0291,Amina Kiptoo,Female,18-24,Consumer,Eastern
+C0292,Irene Muriuki,Female,25-34,Consumer,Rift Valley
+C0293,Faith Ochieng,Female,25-34,Consumer,Rift Valley
+C0294,Hassan Njoroge,Male,25-34,Consumer,Eastern
+C0295,Amina Ochieng,Female,35-44,Consumer,Nairobi
+C0296,Hassan Maina,Male,25-34,Consumer,Nairobi
+C0297,Kevin Mwangi,Male,55+,Consumer,Nairobi
+C0298,Kevin Maina,Female,45-54,Consumer,Western
+C0299,Carol Otieno,Male,45-54,Small Business,Rift Valley
+C0300,Amina Akinyi,Male,25-34,Corporate,Coast
+C0301,Faith Maina,Male,55+,Consumer,Eastern
+C0302,Victor Akinyi,Male,25-34,Consumer,Nairobi
+C0303,Irene Akinyi,Male,35-44,Consumer,Rift Valley
+C0304,George Otieno,Male,55+,Consumer,Nairobi
+C0305,James Otieno,Male,18-24,Consumer,Nairobi
+C0306,James Otieno,Male,18-24,Consumer,Rift Valley
+C0307,Carol Mwangi,Female,18-24,Small Business,Eastern
+C0308,Faith Maina,Male,55+,Consumer,Coast
+C0309,Irene Kamau,Male,45-54,Consumer,Nairobi
+C0310,Wanjiku Akinyi,Female,55+,Consumer,Coast
+C0311,Sharon Otieno,Female,45-54,Consumer,Nairobi
+C0312,Sharon Kariuki,Female,35-44,Consumer,Eastern
+C0313,Wanjiku Mwangi,Female,55+,Consumer,Rift Valley
+C0314,Amina Wambui,Female,25-34,Consumer,Nairobi
+C0315,Nancy Ochieng,Female,45-54,Corporate,Nairobi
+C0316,Faith Kiptoo,Female,35-44,Consumer,Nairobi
+C0317,Peter Ochieng,Female,25-34,Consumer,Eastern
+C0318,Sharon Kamau,Male,18-24,Consumer,Western
+C0319,Victor Ochieng,Female,18-24,Consumer,Rift Valley
+C0320,James Kiptoo,Female,45-54,Consumer,Coast
+C0321,Peter Wambui,Female,45-54,Small Business,Coast
+C0322,Victor Mwangi,Male,55+,Corporate,Nairobi
+C0323,Peter Muriuki,Male,35-44,Consumer,Eastern
+C0324,David Otieno,Male,35-44,Consumer,Central
+C0325,David Ochieng,Male,55+,Consumer,Coast
+C0326,Victor Mutua,Female,18-24,Consumer,Rift Valley
+C0327,Carol Maina,Female,55+,Consumer,Coast
+C0328,Amina Wambui,Female,55+,Consumer,Eastern
+C0329,Hassan Ochieng,Female,55+,Consumer,Nairobi
+C0330,George Njoroge,Female,35-44,Consumer,Western
+C0331,Esther Njoroge,Male,25-34,Small Business,Central
+C0332,Victor Kamau,Male,35-44,Consumer,Western
+C0333,George Kamau,Male,55+,Corporate,Nairobi
+C0334,Samuel Ochieng,Male,45-54,Consumer,Nairobi
+C0335,Rose Muriuki,Male,18-24,Consumer,Nairobi
+C0336,Victor Ochieng,Female,18-24,Small Business,Central
+C0337,Rose Kamau,Female,35-44,Corporate,Western
+C0338,Amina Muriuki,Male,18-24,Small Business,Coast
+C0339,Mary Kiptoo,Male,55+,Consumer,Coast
+C0340,Faith Akinyi,Female,55+,Consumer,Central
+C0341,Irene Ochieng,Female,45-54,Consumer,Central
+C0342,Irene Kamau,Male,55+,Consumer,Nairobi
+C0343,Sharon Akinyi,Female,55+,Consumer,Coast
+C0344,Kevin Kamau,Female,55+,Consumer,Central
+C0345,Kevin Kamau,Female,35-44,Consumer,Nairobi
+C0346,Lucy Kiptoo,Female,45-54,Small Business,Central
+C0347,Faith Muriuki,Male,55+,Small Business,Western
+C0348,Wanjiku Kiptoo,Male,35-44,Consumer,Nairobi
+C0349,Kevin Kiptoo,Female,55+,Small Business,Coast
+C0350,Lucy Njoroge,Female,25-34,Small Business,Coast
+C0351,Carol Wambui,Male,55+,Corporate,Rift Valley
+C0352,Brian Wambui,Male,25-34,Small Business,Coast
+C0353,Brian Kiptoo,Male,18-24,Consumer,Coast
+C0354,Nancy Wambui,Female,18-24,Small Business,Central
+C0355,Sharon Njoroge,Female,25-34,Consumer,Rift Valley
+C0356,Lucy Wambui,Male,18-24,Consumer,Western
+C0357,David Muriuki,Female,35-44,Small Business,Western
+C0358,James Njoroge,Male,55+,Consumer,Coast
+C0359,Victor Akinyi,Female,55+,Consumer,Central
+C0360,Victor Mutua,Male,45-54,Consumer,Western
+C0361,Hassan Muriuki,Female,25-34,Consumer,Rift Valley
+C0362,David Kiptoo,Male,25-34,Consumer,Eastern
+C0363,Peter Mutua,Female,35-44,Consumer,Eastern
+C0364,Nancy Otieno,Female,18-24,Corporate,Western
+C0365,Brian Maina,Male,35-44,Corporate,Western
+C0366,Sharon Ochieng,Female,35-44,Consumer,Rift Valley
+C0367,Hassan Kariuki,Male,55+,Consumer,Central
+C0368,Brian Ochieng,Female,55+,Consumer,Eastern
+C0369,Hassan Mwangi,Female,45-54,Consumer,Western
+C0370,Mary Njoroge,Female,25-34,Consumer,Nairobi
+C0371,Kevin Akinyi,Male,45-54,Consumer,Nairobi
+C0372,Lucy Njoroge,Male,25-34,Consumer,Eastern
+C0373,Victor Kariuki,Male,18-24,Consumer,Nairobi
+C0374,Irene Akinyi,Male,45-54,Small Business,Central
+C0375,James Kamau,Female,55+,Consumer,Central
+C0376,Carol Muriuki,Male,18-24,Consumer,Nairobi
+C0377,Peter Kariuki,Male,18-24,Consumer,Central
+C0378,Mary Ochieng,Male,55+,Small Business,Rift Valley
+C0379,Sharon Kamau,Female,35-44,Consumer,Nairobi
+C0380,Esther Otieno,Male,45-54,Consumer,Eastern
+C0381,Irene Kamau,Female,35-44,Consumer,Eastern
+C0382,Peter Njoroge,Female,45-54,Consumer,Central
+C0383,Sharon Muriuki,Male,35-44,Consumer,Nairobi
+C0384,Faith Mwangi,Male,25-34,Corporate,Coast
+C0385,Mary Mwangi,Female,45-54,Consumer,Nairobi
+C0386,Amina Kamau,Male,45-54,Consumer,Central
+C0387,Amina Akinyi,Male,55+,Small Business,Eastern
+C0388,Rose Mwangi,Female,25-34,Consumer,Eastern
+C0389,Irene Otieno,Female,55+,Consumer,Rift Valley
+C0390,Irene Njoroge,Male,45-54,Small Business,Central
+C0391,Wanjiku Maina,Female,45-54,Consumer,Rift Valley
+C0392,David Maina,Female,18-24,Consumer,Rift Valley
+C0393,David Otieno,Male,25-34,Consumer,Central
+C0394,Victor Kariuki,Female,45-54,Consumer,Coast
+C0395,Irene Muriuki,Female,18-24,Consumer,Nairobi
+C0396,Wanjiku Njoroge,Female,35-44,Consumer,Nairobi
+C0397,Lucy Ochieng,Female,18-24,Consumer,Western
+C0398,Hassan Njoroge,Male,25-34,Consumer,Nairobi
+C0399,Irene Otieno,Male,45-54,Small Business,Nairobi
+C0400,Hassan Kiptoo,Male,55+,Consumer,Eastern
+C0401,David Muriuki,Female,25-34,Corporate,Eastern
+C0402,Faith Kamau,Male,55+,Consumer,Western
+C0403,Sharon Muriuki,Male,55+,Consumer,Eastern
+C0404,Amina Kariuki,Female,25-34,Small Business,Eastern
+C0405,Esther Ochieng,Male,45-54,Consumer,Nairobi
+C0406,Rose Kariuki,Female,25-34,Consumer,Western
+C0407,Wanjiku Wambui,Female,55+,Small Business,Central
+C0408,Brian Njoroge,Female,55+,Small Business,Nairobi
+C0409,Nancy Akinyi,Male,18-24,Consumer,Rift Valley
+C0410,Irene Kamau,Female,55+,Consumer,Western
+C0411,James Ochieng,Female,25-34,Consumer,Western
+C0412,Faith Kariuki,Female,55+,Consumer,Nairobi
+C0413,Sharon Mwangi,Male,55+,Consumer,Nairobi
+C0414,Nancy Akinyi,Male,35-44,Consumer,Eastern
+C0415,David Kiptoo,Female,35-44,Consumer,Nairobi
+C0416,Rose Mwangi,Male,25-34,Consumer,Nairobi
+C0417,Peter Otieno,Female,25-34,Consumer,Central
+C0418,Rose Kariuki,Female,35-44,Consumer,Western
+C0419,Lucy Mwangi,Male,25-34,Consumer,Coast
+C0420,David Kiptoo,Female,35-44,,Western
+C0421,Lucy Mwangi,Male,45-54,Corporate,Nairobi
+C0422,Sharon Wambui,Male,35-44,Consumer,Nairobi
+C0423,Lucy Muriuki,Female,35-44,Consumer,Eastern
+C0424,Victor Kiptoo,Male,35-44,Small Business,Coast
+C0425,Irene Mwangi,Male,35-44,Consumer,Coast
+C0426,Carol Wambui,Female,35-44,Consumer,Rift Valley
+C0427,Brian Kariuki,Male,18-24,Consumer,Rift Valley
+C0428,David Maina,Male,18-24,Consumer,Nairobi
+C0429,Victor Akinyi,Male,25-34,Consumer,Central
+C0430,Nancy Kariuki,Male,18-24,Corporate,Western
+C0431,Samuel Kariuki,Male,18-24,Consumer,Central
+C0432,George Akinyi,Male,35-44,Small Business,Eastern
+C0433,Lucy Mwangi,Male,18-24,Consumer,Western
+C0434,Rose Wambui,Male,45-54,Consumer,Rift Valley
+C0435,Esther Muriuki,Male,18-24,Consumer,Eastern
+C0436,Lucy Kamau,Female,55+,Consumer,Western
+C0437,Lucy Maina,Male,55+,Corporate,Eastern
+C0438,Peter Mwangi,Male,45-54,Small Business,Coast
+C0439,Mary Akinyi,Male,55+,Consumer,Eastern
+C0440,Carol Otieno,Female,55+,Consumer,Central
+C0441,Sharon Kiptoo,Male,55+,Consumer,Western
+C0442,Lucy Mwangi,Female,35-44,Corporate,Western
+C0443,Samuel Wambui,Male,55+,Consumer,Nairobi
+C0444,George Muriuki,Female,25-34,Small Business,Central
+C0445,Peter Wambui,Male,18-24,Consumer,Eastern
+C0446,Brian Maina,Female,25-34,Consumer,Coast
+C0447,Hassan Akinyi,Male,25-34,Consumer,Nairobi
+C0448,Esther Akinyi,Female,55+,Consumer,Central
+C0449,Samuel Kariuki,Female,18-24,Small Business,Nairobi
+C0450,Samuel Kiptoo,Female,55+,Consumer,Nairobi
+C0451,Wanjiku Mwangi,Female,55+,Consumer,Eastern
+C0452,Victor Akinyi,Male,55+,Consumer,Western
+C0453,Lucy Mutua,Female,55+,Small Business,Central
+C0454,James Mwangi,Female,45-54,Corporate,Coast
+C0455,Wanjiku Ochieng,Male,55+,Consumer,Nairobi
+C0456,Brian Mutua,Male,55+,Small Business,Nairobi
+C0457,Kevin Maina,Male,18-24,Consumer,Rift Valley
+C0458,Irene Kariuki,Female,45-54,Consumer,Coast
+C0459,Esther Njoroge,Male,45-54,Consumer,Eastern
+C0460,Esther Kariuki,Male,18-24,Consumer,Coast
+C0461,David Wambui,Male,35-44,Consumer,Western
+C0462,Mary Njoroge,Male,55+,Consumer,Rift Valley
+C0463,Victor Kamau,Male,55+,Small Business,Eastern
+C0464,Mary Kiptoo,Male,25-34,Consumer,Rift Valley
+C0465,Nancy Kiptoo,Female,35-44,Small Business,Eastern
+C0466,Lucy Mwangi,Male,55+,Consumer,Rift Valley
+C0467,Amina Maina,Male,25-34,Consumer,Eastern
+C0468,Irene Kiptoo,Female,18-24,Consumer,Nairobi
+C0469,Kevin Kariuki,Female,18-24,Small Business,Rift Valley
+C0470,David Mutua,Female,35-44,Consumer,Western
+C0471,Kevin Mwangi,Female,45-54,Consumer,Western
+C0472,Wanjiku Njoroge,Female,55+,Corporate,Coast
+C0473,Amina Mwangi,Female,55+,Consumer,Eastern
+C0474,Amina Maina,Male,55+,Corporate,Eastern
+C0475,Peter Mwangi,Male,18-24,Consumer,Central
+C0476,Hassan Ochieng,Female,25-34,Consumer,Rift Valley
+C0477,Nancy Kamau,Male,35-44,Consumer,Rift Valley
+C0478,Lucy Mutua,Male,45-54,Small Business,Central
+C0479,Kevin Otieno,Male,35-44,Corporate,Nairobi
+C0480,Sharon Akinyi,Female,55+,Small Business,Nairobi
+C0481,Amina Njoroge,Male,35-44,Consumer,Rift Valley
+C0482,David Wambui,Female,45-54,Consumer,Western
+C0483,George Mwangi,Female,55+,Consumer,Eastern
+C0484,Irene Kariuki,Male,18-24,Small Business,Western
+C0485,Nancy Kariuki,Female,55+,Consumer,Eastern
+C0486,Victor Ochieng,Female,45-54,Consumer,Central
+C0487,Victor Kiptoo,Male,55+,Consumer,Rift Valley
+C0488,Nancy Kiptoo,Female,55+,Corporate,Nairobi
+C0489,Amina Otieno,Female,35-44,Consumer,Western
+C0490,Esther Maina,Male,55+,Consumer,Rift Valley
+C0491,Sharon Akinyi,Male,25-34,Consumer,Eastern
+C0492,Rose Otieno,Female,25-34,Consumer,Eastern
+C0493,David Wambui,Male,25-34,Small Business,Nairobi
+C0494,Victor Wambui,Male,55+,Small Business,Central
+C0495,Esther Mutua,Male,35-44,Consumer,Nairobi
+C0496,Irene Muriuki,Male,25-34,Consumer,Nairobi
+C0497,Faith Muriuki,Female,18-24,,Rift Valley
+C0498,James Maina,Male,45-54,,Rift Valley
+C0499,Kevin Mwangi,Female,45-54,Consumer,Rift Valley
+C0500,Esther Mwangi,Male,45-54,Consumer,Eastern
+C0501,Peter Maina,Male,45-54,Consumer,Rift Valley
+C0502,Sharon Njoroge,Female,25-34,Small Business,Rift Valley
+C0503,Peter Akinyi,Male,25-34,Corporate,Nairobi
+C0504,Samuel Kamau,Male,25-34,Consumer,Nairobi
+C0505,Samuel Wambui,Male,25-34,Consumer,Coast
+C0506,Victor Mwangi,Female,55+,Consumer,Eastern
+C0507,Carol Maina,Female,35-44,Small Business,Nairobi
+C0508,Hassan Kariuki,Female,45-54,Consumer,Western
+C0509,James Kiptoo,Male,25-34,Small Business,Rift Valley
+C0510,Brian Muriuki,Male,45-54,Consumer,Nairobi
+C0511,Mary Kiptoo,Female,25-34,Consumer,Central
+C0512,James Njoroge,Male,35-44,Consumer,Eastern
+C0513,James Maina,Male,18-24,Corporate,Rift Valley
+C0514,George Mutua,Male,18-24,Small Business,Nairobi
+C0515,David Otieno,Male,25-34,Consumer,Eastern
+C0516,Peter Wambui,Female,55+,Corporate,Central
+C0517,Faith Ochieng,Male,25-34,Small Business,Eastern
+C0518,Hassan Kamau,Male,35-44,Small Business,Central
+C0519,Sharon Mwangi,Female,35-44,Small Business,Coast
+C0520,Amina Akinyi,Female,45-54,Small Business,Central
+C0521,Nancy Muriuki,Male,55+,Consumer,Nairobi
+C0522,Samuel Kiptoo,Male,45-54,Consumer,Eastern
+C0523,Sharon Njoroge,Female,35-44,Consumer,Nairobi
+C0524,Mary Maina,Male,45-54,Consumer,Nairobi
+C0525,Esther Maina,Female,25-34,Small Business,Central
+C0526,Esther Njoroge,Male,55+,Small Business,Rift Valley
+C0527,Amina Ochieng,Male,35-44,Consumer,Rift Valley
+C0528,Samuel Njoroge,Female,55+,Consumer,Eastern
+C0529,David Njoroge,Male,35-44,Small Business,Central
+C0530,Carol Otieno,Female,25-34,Small Business,Central
+C0531,Amina Muriuki,Female,55+,Consumer,Nairobi
+C0532,George Kiptoo,Female,18-24,Consumer,Coast
+C0533,David Kamau,Male,55+,Corporate,Eastern
+C0534,Lucy Akinyi,Female,18-24,Small Business,Rift Valley
+C0535,David Mwangi,Male,35-44,Consumer,Coast
+C0536,Rose Mwangi,Female,35-44,Consumer,Central
+C0537,James Akinyi,Female,55+,Consumer,Eastern
+C0538,Peter Kiptoo,Male,18-24,Consumer,Western
+C0539,Sharon Wambui,Male,45-54,Small Business,Nairobi
+C0540,Nancy Kiptoo,Male,35-44,Consumer,Central
+C0541,Nancy Maina,Male,35-44,Consumer,Nairobi
+C0542,George Kamau,Female,45-54,Small Business,Nairobi
+C0543,Irene Otieno,Male,35-44,Small Business,Nairobi
+C0544,Wanjiku Njoroge,Female,55+,Small Business,Western
+C0545,Sharon Otieno,Female,25-34,Corporate,Coast
+C0546,Hassan Mutua,Male,45-54,Consumer,Central
+C0547,Faith Kiptoo,Female,18-24,Consumer,Western
+C0548,Carol Otieno,Male,55+,Consumer,Eastern
+C0549,Esther Maina,Male,25-34,Corporate,Rift Valley
+C0550,Kevin Kiptoo,Male,45-54,Consumer,Western
+C0551,Samuel Muriuki,Female,35-44,Corporate,Central
+C0552,Wanjiku Maina,Male,25-34,Consumer,Eastern
+C0553,Mary Kariuki,Female,35-44,Corporate,Nairobi
+C0554,Rose Wambui,Male,55+,Consumer,Central
+C0555,Brian Ochieng,Male,45-54,Consumer,Eastern
+C0556,Esther Mutua,Female,25-34,Corporate,Western
+C0557,David Kariuki,Female,55+,Consumer,Rift Valley
+C0558,Sharon Mwangi,Male,25-34,Consumer,Coast
+C0559,Amina Ochieng,Male,35-44,Consumer,Coast
+C0560,Lucy Njoroge,Female,55+,Small Business,Central
+C0561,Faith Muriuki,Male,55+,Consumer,Nairobi
+C0562,Wanjiku Akinyi,Male,55+,Corporate,Central
+C0563,James Mwangi,Female,18-24,Small Business,Nairobi
+C0564,Peter Otieno,Female,35-44,Consumer,Eastern
+C0565,James Mwangi,Male,45-54,Corporate,Central
+C0566,Mary Akinyi,Male,35-44,Consumer,Coast
+C0567,Hassan Mutua,Female,35-44,Small Business,Rift Valley
+C0568,Irene Kiptoo,Female,35-44,Consumer,Rift Valley
+C0569,Esther Wambui,Male,55+,Consumer,Western
+C0570,Brian Kamau,Male,45-54,Consumer,Western
+C0571,Hassan Njoroge,Female,45-54,Small Business,Eastern
+C0572,George Kiptoo,Male,35-44,Small Business,Rift Valley
+C0573,Nancy Akinyi,Female,35-44,Corporate,Rift Valley
+C0574,James Akinyi,Female,18-24,Consumer,Eastern
+C0575,George Kiptoo,Female,25-34,Consumer,Rift Valley
+C0576,Carol Kariuki,Female,55+,Consumer,Nairobi
+C0577,Victor Mwangi,Female,25-34,Consumer,Coast
+C0578,James Kamau,Female,55+,Consumer,Nairobi
+C0579,Carol Kariuki,Female,55+,Consumer,Coast
+C0580,Irene Njoroge,Male,25-34,Consumer,Eastern
+C0581,David Mwangi,Female,18-24,Consumer,Western
+C0582,George Ochieng,Male,25-34,Consumer,Western
+C0583,Amina Ochieng,Male,35-44,Consumer,Nairobi
+C0584,Carol Mwangi,Female,45-54,Small Business,Eastern
+C0585,Mary Mutua,Male,45-54,Small Business,Nairobi
+C0586,Brian Wambui,Male,45-54,Consumer,Nairobi
+C0587,Mary Kiptoo,Female,55+,Consumer,Nairobi
+C0588,Victor Njoroge,Female,35-44,Small Business,Nairobi
+C0589,Hassan Muriuki,Male,35-44,Small Business,Western
+C0590,Brian Wambui,Male,45-54,Consumer,Western
+C0591,Peter Kariuki,Female,45-54,Consumer,Central
+C0592,Nancy Otieno,Female,25-34,Consumer,Nairobi
+C0593,Esther Njoroge,Male,55+,Consumer,Nairobi
+C0594,Peter Maina,Male,25-34,Consumer,Central
+C0595,David Otieno,Male,55+,Consumer,Nairobi
+C0596,Lucy Njoroge,Male,25-34,Consumer,Rift Valley
+C0597,Hassan Wambui,Male,35-44,Consumer,Nairobi
+C0598,Esther Kariuki,Male,45-54,Small Business,Central
+C0599,Nancy Maina,Female,55+,Consumer,Central
+C0600,Brian Kariuki,Female,45-54,Consumer,Central
+C0601,Wanjiku Kariuki,Female,25-34,Small Business,Nairobi
+C0602,David Mutua,Female,55+,Consumer,Nairobi
+C0603,George Kiptoo,Male,18-24,Small Business,Eastern
+C0604,Sharon Akinyi,Female,45-54,Small Business,Nairobi
+C0605,Carol Ochieng,Male,25-34,Consumer,Western
+C0606,George Muriuki,Female,25-34,Consumer,Western
+C0607,Esther Muriuki,Male,25-34,Small Business,Central
+C0608,Wanjiku Kariuki,Female,45-54,Consumer,Western
+C0609,Faith Akinyi,Male,18-24,Consumer,Rift Valley
+C0610,Faith Otieno,Male,55+,Consumer,Eastern
+C0611,James Mwangi,Male,25-34,Consumer,Nairobi
+C0612,Victor Akinyi,Male,25-34,Small Business,Central
+C0613,Nancy Muriuki,Male,25-34,Corporate,Nairobi
+C0614,Sharon Mwangi,Male,45-54,Consumer,Western
+C0615,Brian Muriuki,Male,55+,Consumer,Rift Valley
+C0616,Esther Ochieng,Female,55+,Consumer,Nairobi
+C0617,David Mwangi,Male,55+,Small Business,Central
+C0618,Samuel Otieno,Female,55+,Consumer,Eastern
+C0619,Lucy Kamau,Female,55+,Corporate,Nairobi
+C0620,Esther Kariuki,Male,18-24,Consumer,Western
+C0621,Samuel Mutua,Male,45-54,Consumer,Rift Valley
+C0622,Peter Kamau,Female,25-34,Small Business,Nairobi
+C0623,Lucy Kiptoo,Female,45-54,Consumer,Nairobi
+C0624,Rose Njoroge,Female,55+,Small Business,Nairobi
+C0625,Rose Ochieng,Male,35-44,Consumer,Eastern
+C0626,Peter Maina,Male,55+,Consumer,Nairobi
+C0627,George Ochieng,Female,45-54,Consumer,Nairobi
+C0628,Peter Mutua,Female,35-44,Consumer,Nairobi
+C0629,George Wambui,Female,25-34,Consumer,Nairobi
+C0630,Sharon Kamau,Male,55+,Consumer,Coast
+C0631,Rose Wambui,Female,35-44,Consumer,Nairobi
+C0632,Esther Otieno,Male,35-44,,Coast
+C0633,Mary Kariuki,Female,45-54,Consumer,Coast
+C0634,Mary Kariuki,Female,45-54,Small Business,Eastern
+C0635,Rose Ochieng,Female,45-54,Corporate,Nairobi
+C0636,Wanjiku Mwangi,Female,25-34,Consumer,Eastern
+C0637,Victor Maina,Female,45-54,Small Business,Coast
+C0638,Brian Maina,Male,35-44,Small Business,Nairobi
+C0639,Mary Kariuki,Female,45-54,Consumer,Rift Valley
+C0640,David Kariuki,Female,25-34,Consumer,Eastern
+C0641,Lucy Maina,Female,25-34,Consumer,Nairobi
+C0642,Sharon Njoroge,Female,25-34,Consumer,Eastern
+C0643,Irene Mutua,Female,55+,Corporate,Western
+C0644,Irene Njoroge,Female,18-24,Small Business,Coast
+C0645,Samuel Kiptoo,Male,18-24,Small Business,Eastern
+C0646,Victor Mutua,Female,18-24,Consumer,Central
+C0647,Mary Maina,Female,18-24,Consumer,Rift Valley
+C0648,Carol Mwangi,Male,25-34,Small Business,Central
+C0649,Rose Kiptoo,Female,55+,Consumer,Rift Valley
+C0650,James Muriuki,Male,35-44,Small Business,Coast
+C0651,Sharon Mwangi,Male,35-44,Small Business,Nairobi
+C0652,Wanjiku Otieno,Female,35-44,Consumer,Central
+C0653,Brian Njoroge,Female,25-34,Consumer,Central
+C0654,David Akinyi,Male,25-34,Consumer,Nairobi
+C0655,Wanjiku Muriuki,Male,18-24,Consumer,Nairobi
+C0656,Nancy Kiptoo,Female,18-24,Consumer,Central
+C0657,David Kamau,Male,35-44,Consumer,Nairobi
+C0658,Faith Wambui,Male,45-54,Corporate,Nairobi
+C0659,James Ochieng,Male,18-24,Consumer,Rift Valley
+C0660,Nancy Maina,Female,55+,Consumer,Rift Valley
+C0661,David Akinyi,Female,45-54,Consumer,Rift Valley
+C0662,James Kamau,Female,55+,Consumer,Central
+C0663,Kevin Njoroge,Female,25-34,Corporate,Eastern
+C0664,Victor Otieno,Female,45-54,Small Business,Coast
+C0665,Brian Muriuki,Female,35-44,Corporate,Nairobi
+C0666,Rose Kiptoo,Male,35-44,Consumer,Nairobi
+C0667,Rose Kamau,Female,18-24,Consumer,Rift Valley
+C0668,David Ochieng,Male,45-54,Consumer,Nairobi
+C0669,Samuel Wambui,Male,25-34,Corporate,Western
+C0670,Peter Otieno,Male,18-24,Consumer,Eastern
+C0671,Amina Otieno,Male,25-34,Consumer,Nairobi
+C0672,Carol Wambui,Female,55+,Consumer,Nairobi
+C0673,Brian Kariuki,Female,18-24,Small Business,Eastern
+C0674,George Maina,Male,35-44,Small Business,Coast
+C0675,Carol Kamau,Male,55+,Consumer,Nairobi
+C0676,Nancy Mwangi,Female,18-24,Consumer,Eastern
+C0677,Brian Maina,Male,45-54,Small Business,Eastern
+C0678,Nancy Mwangi,Male,45-54,Small Business,Western
+C0679,Nancy Wambui,Female,35-44,Small Business,Coast
+C0680,Hassan Muriuki,Female,45-54,Consumer,Nairobi
+C0681,Victor Maina,Female,45-54,Consumer,Nairobi
+C0682,David Kamau,Female,55+,Consumer,Coast
+C0683,Peter Otieno,Male,55+,Consumer,Central
+C0684,Faith Njoroge,Female,45-54,Consumer,Rift Valley
+C0685,Lucy Ochieng,Male,25-34,Consumer,Eastern
+C0686,Hassan Njoroge,Male,55+,Consumer,Nairobi
+C0687,David Kiptoo,Male,45-54,Corporate,Coast
+C0688,Victor Maina,Male,25-34,Consumer,Nairobi
+C0689,Victor Kariuki,Female,35-44,Consumer,Eastern
+C0690,Brian Mwangi,Female,25-34,Consumer,Nairobi
+C0691,Hassan Mwangi,Male,45-54,Small Business,Coast
+C0692,Lucy Muriuki,Female,55+,Corporate,Western
+C0693,Hassan Mutua,Female,25-34,Consumer,Central
+C0694,George Kariuki,Female,18-24,Small Business,Rift Valley
+C0695,Rose Njoroge,Male,18-24,Consumer,Rift Valley
+C0696,Samuel Akinyi,Male,55+,Consumer,Coast
+C0697,Mary Wambui,Female,25-34,Consumer,Rift Valley
+C0698,Carol Otieno,Male,25-34,Consumer,Eastern
+C0699,David Kamau,Female,35-44,Small Business,Central
+C0700,Faith Mwangi,Female,25-34,Consumer,Western
+C0701,Sharon Akinyi,Male,45-54,Small Business,Nairobi
+C0702,Faith Otieno,Female,55+,Consumer,Rift Valley
+C0703,George Njoroge,Male,25-34,Small Business,Western
+C0704,James Otieno,Male,25-34,Consumer,Central
+C0705,Faith Akinyi,Female,35-44,Consumer,Nairobi
+C0706,Samuel Otieno,Female,25-34,Consumer,Eastern
+C0707,Lucy Mwangi,Female,25-34,Consumer,Central
+C0708,Nancy Njoroge,Female,25-34,,Rift Valley
+C0709,George Kamau,Female,55+,Consumer,Nairobi
+C0710,Rose Wambui,Male,55+,Consumer,Eastern
+C0711,Wanjiku Njoroge,Male,55+,Consumer,Nairobi
+C0712,Peter Kiptoo,Male,45-54,Small Business,Nairobi
+C0713,James Wambui,Male,25-34,Consumer,Eastern
+C0714,Carol Mutua,Male,55+,Consumer,Eastern
+C0715,Faith Otieno,Female,18-24,Consumer,Nairobi
+C0716,Mary Kamau,Male,55+,Consumer,Western
+C0717,Brian Otieno,Female,18-24,Consumer,Rift Valley
+C0718,Peter Muriuki,Male,45-54,Consumer,Eastern
+C0719,James Kamau,Male,25-34,Corporate,Central
+C0720,James Kariuki,Female,55+,Consumer,Western
+C0721,Victor Ochieng,Female,18-24,Consumer,Rift Valley
+C0722,Wanjiku Otieno,Male,55+,Consumer,Rift Valley
+C0723,Brian Mwangi,Female,55+,Consumer,Rift Valley
+C0724,Brian Otieno,Male,25-34,Small Business,Coast
+C0725,Kevin Maina,Male,35-44,Consumer,Nairobi
+C0726,Brian Mwangi,Male,35-44,Consumer,Eastern
+C0727,Brian Maina,Female,18-24,Consumer,Eastern
+C0728,Irene Maina,Male,55+,Small Business,Rift Valley
+C0729,Mary Mwangi,Male,45-54,Consumer,Nairobi
+C0730,Samuel Kariuki,Male,18-24,Consumer,Nairobi
+C0731,Victor Ochieng,Female,18-24,Consumer,Rift Valley
+C0732,Esther Ochieng,Female,18-24,Consumer,Nairobi
+C0733,Kevin Kiptoo,Male,25-34,Consumer,Eastern
+C0734,Kevin Mwangi,Female,55+,Small Business,Central
+C0735,David Mwangi,Female,35-44,Consumer,Rift Valley
+C0736,Nancy Maina,Male,35-44,Consumer,Eastern
+C0737,Rose Njoroge,Female,55+,Consumer,Central
+C0738,Carol Kariuki,Female,35-44,Consumer,Central
+C0739,James Njoroge,Female,25-34,Consumer,Coast
+C0740,James Kiptoo,Male,55+,Corporate,Coast
+C0741,George Mwangi,Female,55+,Consumer,Central
+C0742,Lucy Otieno,Female,55+,Consumer,Coast
+C0743,Nancy Njoroge,Male,45-54,Consumer,Eastern
+C0744,Irene Kamau,Male,35-44,Consumer,Western
+C0745,Sharon Kamau,Female,55+,Consumer,Nairobi
+C0746,Irene Mutua,Female,45-54,Small Business,Central
+C0747,James Njoroge,Male,35-44,Consumer,Central
+C0748,Sharon Ochieng,Male,18-24,Consumer,Nairobi
+C0749,Esther Kiptoo,Male,35-44,Consumer,Nairobi
+C0750,Victor Kiptoo,Female,55+,Consumer,Rift Valley
+C0751,Carol Wambui,Male,55+,Small Business,Central
+C0752,Amina Mwangi,Male,45-54,Small Business,Eastern
+C0753,Brian Muriuki,Female,55+,Corporate,Nairobi
+C0754,Mary Kariuki,Female,35-44,Small Business,Nairobi
+C0755,Kevin Ochieng,Male,35-44,Small Business,Rift Valley
+C0756,Samuel Wambui,Male,55+,Consumer,Eastern
+C0757,Kevin Muriuki,Female,55+,Corporate,Nairobi
+C0758,Carol Kiptoo,Male,55+,Consumer,Nairobi
+C0759,Faith Mutua,Female,35-44,Consumer,Nairobi
+C0760,Rose Muriuki,Female,18-24,Small Business,Western
+C0761,Sharon Ochieng,Female,25-34,Corporate,Western
+C0762,Irene Wambui,Female,18-24,Consumer,Nairobi
+C0763,Brian Kariuki,Male,45-54,Small Business,Nairobi
+C0764,Samuel Muriuki,Male,35-44,Consumer,Western
+C0765,Wanjiku Ochieng,Female,55+,Consumer,Eastern
+C0766,Lucy Akinyi,Female,25-34,Consumer,Coast
+C0767,Amina Mutua,Male,35-44,Consumer,Western
+C0768,David Kamau,Female,55+,Consumer,Nairobi
+C0769,Sharon Otieno,Female,18-24,Corporate,Nairobi
+C0770,Rose Njoroge,Female,45-54,Small Business,Central
+C0771,Nancy Maina,Male,18-24,Consumer,Rift Valley
+C0772,Amina Otieno,Male,18-24,Small Business,Eastern
+C0773,Victor Mwangi,Male,25-34,Consumer,Eastern
+C0774,Rose Njoroge,Female,18-24,Small Business,Eastern
+C0775,Amina Wambui,Female,35-44,Corporate,Eastern
+C0776,Rose Kamau,Male,18-24,Consumer,Eastern
+C0777,George Maina,Male,35-44,Consumer,Nairobi
+C0778,Irene Maina,Male,35-44,Consumer,Nairobi
+C0779,Lucy Muriuki,Female,35-44,Small Business,Central
+C0780,Victor Mwangi,Male,35-44,Consumer,Western
+C0781,Irene Wambui,Male,25-34,Small Business,Nairobi
+C0782,Lucy Kiptoo,Male,55+,Corporate,Eastern
+C0783,Nancy Njoroge,Male,25-34,Consumer,Coast
+C0784,James Njoroge,Male,45-54,Consumer,Western
+C0785,Sharon Kiptoo,Male,55+,Consumer,Nairobi
+C0786,Samuel Mwangi,Male,45-54,Corporate,Nairobi
+C0787,Hassan Wambui,Male,35-44,Consumer,Nairobi
+C0788,Lucy Wambui,Female,55+,Consumer,Eastern
+C0789,Peter Kamau,Male,55+,Consumer,Coast
+C0790,Samuel Mutua,Male,35-44,Consumer,Rift Valley
+C0791,Wanjiku Mutua,Male,35-44,Small Business,Central
+C0792,Wanjiku Ochieng,Male,25-34,Corporate,Central
+C0793,Mary Kariuki,Female,55+,Consumer,Central
+C0794,Rose Kiptoo,Male,55+,Small Business,Rift Valley
+C0795,Carol Mutua,Female,55+,Consumer,Rift Valley
+C0796,Irene Muriuki,Female,55+,Consumer,Nairobi
+C0797,Samuel Akinyi,Female,35-44,Consumer,Eastern
+C0798,Amina Kamau,Female,55+,Consumer,Nairobi
+C0799,Peter Njoroge,Male,45-54,,Eastern
+C0800,Lucy Maina,Female,45-54,Consumer,Nairobi
+C0801,Sharon Muriuki,Male,35-44,Small Business,Nairobi
+C0802,Esther Otieno,Female,35-44,Consumer,Eastern
+C0803,James Akinyi,Male,35-44,Consumer,Nairobi
+C0804,Sharon Ochieng,Male,25-34,Consumer,Central
+C0805,George Otieno,Male,25-34,Consumer,Western
+C0806,Rose Akinyi,Female,18-24,Small Business,Nairobi
+C0807,Mary Ochieng,Male,35-44,Corporate,Rift Valley
+C0808,Kevin Kamau,Male,45-54,Consumer,Eastern
+C0809,Wanjiku Njoroge,Male,25-34,Small Business,Eastern
+C0810,James Kiptoo,Male,18-24,Consumer,Central
+C0811,Rose Akinyi,Female,25-34,Consumer,Western
+C0812,Irene Njoroge,Female,55+,Consumer,Nairobi
+C0813,Samuel Ochieng,Female,25-34,Corporate,Nairobi
+C0814,Brian Kamau,Male,25-34,Small Business,Nairobi
+C0815,Irene Mutua,Male,45-54,Small Business,Eastern
+C0816,Samuel Akinyi,Female,55+,Consumer,Eastern
+C0817,Rose Wambui,Female,55+,Small Business,Rift Valley
+C0818,George Mwangi,Male,18-24,Consumer,Western
+C0819,Amina Ochieng,Male,25-34,Small Business,Western
+C0820,Sharon Njoroge,Male,55+,Consumer,Western
+C0821,Faith Njoroge,Female,45-54,Consumer,Western
+C0822,Esther Ochieng,Male,55+,Consumer,Western
+C0823,Carol Mwangi,Female,35-44,Consumer,Nairobi
+C0824,Esther Wambui,Male,25-34,Consumer,Nairobi
+C0825,Mary Kamau,Male,35-44,Consumer,Eastern
+C0826,Nancy Ochieng,Female,45-54,Consumer,Western
+C0827,George Njoroge,Male,55+,Consumer,Eastern
+C0828,Faith Muriuki,Female,25-34,Small Business,Nairobi
+C0829,Nancy Wambui,Male,35-44,Small Business,Western
+C0830,Nancy Kariuki,Male,25-34,Consumer,Nairobi
+C0831,Carol Maina,Male,25-34,Consumer,Nairobi
+C0832,Irene Ochieng,Male,55+,Consumer,Nairobi
+C0833,Samuel Kamau,Female,45-54,Small Business,Nairobi
+C0834,Kevin Mutua,Female,35-44,Consumer,Eastern
+C0835,Samuel Mutua,Female,18-24,Consumer,Central
+C0836,Rose Njoroge,Female,45-54,Consumer,Coast
+C0837,Esther Ochieng,Male,25-34,Consumer,Western
+C0838,Esther Kariuki,Female,55+,Consumer,Central
+C0839,George Kariuki,Female,55+,Consumer,Western
+C0840,Irene Muriuki,Male,55+,Consumer,Nairobi
+C0841,Esther Kariuki,Male,25-34,Small Business,Eastern
+C0842,Nancy Wambui,Female,25-34,Consumer,Rift Valley
+C0843,Esther Wambui,Female,25-34,Consumer,Rift Valley
+C0844,Lucy Kariuki,Female,18-24,Consumer,Western
+C0845,Faith Kamau,Female,45-54,Small Business,Nairobi
+C0846,Sharon Wambui,Female,55+,Consumer,Eastern
+C0847,Faith Kariuki,Female,25-34,Corporate,Central
+C0848,David Akinyi,Female,18-24,Consumer,Nairobi
+C0849,David Maina,Female,18-24,Consumer,Central
+C0850,Wanjiku Mutua,Male,35-44,Consumer,Rift Valley
+C0851,Amina Mwangi,Male,45-54,Consumer,Coast
+C0852,Kevin Mwangi,Male,55+,Consumer,Rift Valley
+C0853,Faith Mutua,Female,25-34,Consumer,Rift Valley
+C0854,Irene Muriuki,Male,18-24,Consumer,Nairobi
+C0855,Lucy Akinyi,Male,35-44,Consumer,Eastern
+C0856,David Mutua,Female,18-24,Corporate,Western
+C0857,Irene Kariuki,Male,55+,Small Business,Coast
+C0858,Rose Akinyi,Male,25-34,Corporate,Nairobi
+C0859,Sharon Kariuki,Male,55+,Corporate,Eastern
+C0860,Samuel Maina,Male,35-44,Consumer,Central
+C0861,Mary Kiptoo,Male,25-34,Small Business,Nairobi
+C0862,Irene Muriuki,Male,25-34,Small Business,Western
+C0863,Wanjiku Mutua,Female,55+,Corporate,Nairobi
+C0864,Rose Kiptoo,Male,18-24,Small Business,Nairobi
+C0865,Lucy Mutua,Male,35-44,Consumer,Coast
+C0866,Wanjiku Mwangi,Female,45-54,Corporate,Central
+C0867,Rose Maina,Female,55+,Consumer,Eastern
+C0868,David Kamau,Male,35-44,Consumer,Central
+C0869,Brian Otieno,Male,18-24,Consumer,Rift Valley
+C0870,Sharon Maina,Female,55+,Consumer,Western
+C0871,Brian Muriuki,Male,55+,Consumer,Coast
+C0872,Rose Mutua,Female,25-34,Consumer,Coast
+C0873,Faith Njoroge,Female,35-44,Small Business,Western
+C0874,David Otieno,Male,25-34,,Eastern
+C0875,Brian Njoroge,Female,35-44,Consumer,Central
+C0876,Rose Kariuki,Male,35-44,Consumer,Nairobi
+C0877,Nancy Njoroge,Male,25-34,Small Business,Rift Valley
+C0878,Wanjiku Wambui,Male,35-44,Small Business,Eastern
+C0879,Rose Wambui,Female,35-44,Corporate,Nairobi
+C0880,Brian Maina,Male,45-54,Small Business,Western
+C0881,Brian Ochieng,Male,45-54,Small Business,Eastern
+C0882,Esther Wambui,Male,35-44,Small Business,Rift Valley
+C0883,Wanjiku Kiptoo,Female,25-34,Consumer,Eastern
+C0884,Nancy Kamau,Female,45-54,Consumer,Western
+C0885,Amina Maina,Female,18-24,Consumer,Coast
+C0886,Nancy Kiptoo,Male,18-24,Small Business,Central
+C0887,Irene Kamau,Female,45-54,Consumer,Eastern
+C0888,Esther Kamau,Female,25-34,Consumer,Central
+C0889,Amina Kamau,Female,25-34,Corporate,Rift Valley
+C0890,Mary Mutua,Male,55+,Small Business,Central
+C0891,Lucy Kariuki,Female,55+,Consumer,Coast
+C0892,Brian Muriuki,Female,25-34,Consumer,Rift Valley
+C0893,Irene Kamau,Female,55+,,Western
+C0894,Samuel Mutua,Male,55+,Consumer,Eastern
+C0895,Kevin Kiptoo,Female,18-24,Corporate,Central
+C0896,Kevin Njoroge,Female,35-44,Consumer,Coast
+C0897,Victor Mutua,Male,55+,Consumer,Central
+C0898,Mary Maina,Female,35-44,Consumer,Central
+C0899,Faith Kamau,Female,25-34,Corporate,Western
+C0900,Amina Maina,Male,55+,Consumer,Nairobi
+C0901,Nancy Kariuki,Male,35-44,Corporate,Nairobi
+C0902,Mary Kamau,Male,18-24,Consumer,Rift Valley
+C0903,Peter Mutua,Male,35-44,Consumer,Coast
+C0904,Faith Kiptoo,Female,18-24,Consumer,Rift Valley
+C0905,Hassan Kariuki,Female,55+,Consumer,Nairobi
+C0906,Esther Wambui,Male,25-34,Consumer,Central
+C0907,Peter Ochieng,Female,45-54,Consumer,Nairobi
+C0908,Amina Kariuki,Male,55+,Consumer,Rift Valley
+C0909,Victor Kiptoo,Female,25-34,Consumer,Eastern
+C0910,Faith Otieno,Male,18-24,Consumer,Nairobi
+C0911,Hassan Kariuki,Female,25-34,Consumer,Rift Valley
+C0912,Carol Kiptoo,Male,55+,Consumer,Nairobi
+C0913,Amina Otieno,Male,25-34,Consumer,Nairobi
+C0914,Irene Wambui,Male,55+,Small Business,Nairobi
+C0915,Peter Kariuki,Female,35-44,Small Business,Central
+C0916,Amina Kiptoo,Male,25-34,Small Business,Rift Valley
+C0917,Victor Ochieng,Female,55+,Consumer,Eastern
+C0918,Nancy Ochieng,Male,55+,Consumer,Nairobi
+C0919,Victor Akinyi,Male,55+,Consumer,Western
+C0920,Irene Kariuki,Female,18-24,Consumer,Rift Valley
+C0921,Carol Muriuki,Male,35-44,Corporate,Eastern
+C0922,Kevin Otieno,Female,25-34,Corporate,Coast
+C0923,Samuel Ochieng,Male,18-24,Consumer,Nairobi
+C0924,Samuel Otieno,Male,45-54,Consumer,Coast
+C0925,Sharon Njoroge,Female,55+,Consumer,Central
+C0926,George Wambui,Male,25-34,Consumer,Eastern
+C0927,Nancy Maina,Female,35-44,Consumer,Central
+C0928,Sharon Mwangi,Female,55+,Small Business,Rift Valley
+C0929,Esther Njoroge,Male,18-24,Consumer,Nairobi
+C0930,Samuel Otieno,Female,55+,Small Business,Central
+C0931,Kevin Maina,Male,45-54,Consumer,Eastern
+C0932,Amina Mutua,Female,45-54,Consumer,Coast
+C0933,George Njoroge,Male,35-44,Consumer,Western
+C0934,Brian Wambui,Female,55+,Consumer,Eastern
+C0935,David Njoroge,Male,55+,Consumer,Eastern
+C0936,Sharon Njoroge,Female,25-34,Consumer,Central
+C0937,Sharon Kariuki,Female,55+,Consumer,Western
+C0938,Wanjiku Mutua,Male,25-34,Corporate,Western
+C0939,Brian Kamau,Male,18-24,Small Business,Coast
+C0940,Victor Muriuki,Female,18-24,Consumer,Central
+C0941,George Kiptoo,Female,25-34,Corporate,Nairobi
+C0942,Faith Akinyi,Female,55+,Consumer,Eastern
+C0943,James Mutua,Female,35-44,Consumer,Eastern
+C0944,Carol Mutua,Male,18-24,Consumer,Eastern
+C0945,Kevin Muriuki,Female,55+,Consumer,Eastern
+C0946,Esther Kariuki,Female,45-54,Consumer,Rift Valley
+C0947,James Akinyi,Male,45-54,Consumer,Rift Valley
+C0948,Irene Kamau,Male,45-54,Consumer,Rift Valley
+C0949,Hassan Mwangi,Female,18-24,Consumer,Western
+C0950,James Kamau,Male,18-24,Small Business,Western
+C0951,Wanjiku Kiptoo,Female,55+,Consumer,Nairobi
+C0952,George Kamau,Female,55+,Consumer,Coast
+C0953,Brian Kariuki,Female,45-54,Consumer,Central
+C0954,David Mutua,Male,18-24,Consumer,Nairobi
+C0955,Sharon Wambui,Female,55+,Consumer,Coast
+C0956,David Kamau,Female,45-54,Consumer,Central
+C0957,David Mwangi,Male,35-44,Consumer,Nairobi
+C0958,David Mwangi,Male,55+,Consumer,Rift Valley
+C0959,Lucy Njoroge,Male,35-44,Consumer,Eastern
+C0960,James Akinyi,Female,55+,Corporate,Nairobi
+C0961,Esther Akinyi,Female,55+,Consumer,Nairobi
+C0962,Victor Muriuki,Male,35-44,Small Business,Central
+C0963,Nancy Muriuki,Male,35-44,Consumer,Rift Valley
+C0964,Victor Wambui,Male,45-54,Consumer,Eastern
+C0965,Mary Mwangi,Male,55+,Consumer,Nairobi
+C0966,Hassan Mutua,Female,18-24,,Rift Valley
+C0967,Hassan Kamau,Male,35-44,Consumer,Nairobi
+C0968,Rose Muriuki,Female,35-44,Small Business,Central
+C0969,James Kiptoo,Female,55+,Consumer,Eastern
+C0970,Faith Wambui,Female,35-44,Corporate,Nairobi
+C0971,Victor Mwangi,Male,35-44,Consumer,Nairobi
+C0972,Irene Mutua,Male,35-44,Small Business,Western
+C0973,Faith Njoroge,Male,25-34,Consumer,Coast
+C0974,Samuel Ochieng,Male,35-44,Corporate,Eastern
+C0975,David Ochieng,Male,55+,Consumer,Eastern
+C0976,Rose Mutua,Female,18-24,Corporate,Nairobi
+C0977,Victor Kariuki,Female,55+,Consumer,Nairobi
+C0978,Mary Mutua,Female,35-44,Consumer,Rift Valley
+C0979,Amina Maina,Female,18-24,Consumer,Nairobi
+C0980,Lucy Kamau,Female,35-44,Consumer,Eastern
+C0981,Hassan Wambui,Female,25-34,Corporate,Rift Valley
+C0982,George Ochieng,Male,18-24,Small Business,Nairobi
+C0983,Kevin Kamau,Male,25-34,Consumer,Eastern
+C0984,David Ochieng,Female,45-54,Corporate,Nairobi
+C0985,Samuel Ochieng,Female,45-54,Consumer,Western
+C0986,George Mwangi,Male,25-34,Consumer,Western
+C0987,Nancy Kiptoo,Male,25-34,Consumer,Western
+C0988,Nancy Ochieng,Male,45-54,Consumer,Rift Valley
+C0989,Victor Muriuki,Female,25-34,Corporate,Coast
+C0990,Peter Mutua,Male,18-24,Consumer,Eastern
+C0991,George Mutua,Male,25-34,Small Business,Eastern
+C0992,Kevin Wambui,Male,45-54,Consumer,Western
+C0993,Lucy Wambui,Male,55+,Consumer,Nairobi
+C0994,James Muriuki,Male,35-44,Small Business,Rift Valley
+C0995,Sharon Wambui,Female,45-54,Small Business,Eastern
+C0996,David Kamau,Male,45-54,Consumer,Central
+C0997,Rose Kiptoo,Male,45-54,Corporate,Western
+C0998,Mary Kamau,Female,55+,Consumer,Western
+C0999,Kevin Wambui,Female,25-34,Consumer,Nairobi
+C1000,Sharon Maina,Male,18-24,Small Business,Rift Valley

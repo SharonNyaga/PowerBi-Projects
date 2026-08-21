@@ -1,0 +1,91 @@
+Product_ID,Product_Name,Category,Subcategory,Brand,Standard_Cost
+P001,Nova Mobile Phones 1,Electronics,Mobile Phones,Nova,2598.92
+P002,Kifaru Mobile Phones 2,Electronics,Mobile Phones,Kifaru,336.51
+P003,Savanna Mobile Phones 3,Electronics,Mobile Phones,Savanna,9496.36
+P004,UrbanPlus Mobile Phones 4,Electronics,Mobile Phones,UrbanPlus,8062.0
+P005,HomePro Mobile Phones 5,Electronics,Mobile Phones,homepro,8535.69
+P006,ValueMax Mobile Phones 6,Electronics,Mobile Phones,ValueMax,9423.57
+P007,Nova Audio 1,Electronics,Audio,Nova,5642.26
+P008,Kifaru Audio 2,Electronics,Audio,Kifaru,6932.71
+P009,Savanna Audio 3,Electronics,Audio,Savanna,1892.61
+P010,UrbanPlus Audio 4,Electronics,Audio,UrbanPlus,1595.73
+P011,HomePro Audio 5,Electronics,Audio,HomePro,8103.73
+P012,ValueMax Audio 6,Electronics ,Audio,ValueMax,5785.38
+P013,Nova Accessories 1,Electronics,Accessories,Nova,6891.52
+P014,Kifaru Accessories 2,Electronics,Accessories,Kifaru,9238.74
+P015,Savanna Accessories 3,Electronics,Accessories,Savanna,7707.94
+P016,UrbanPlus Accessories 4,Electronics,Accessories,UrbanPlus,6754.56
+P017,HomePro Accessories 5,Electronics,Accessories,HomePro,6820.68
+P018,ValueMax Accessories 6,Electronics,Accessories,ValueMax,3821.41
+P019,Nova Kitchenware 1,Home & Kitchen,Kitchenware,Nova,612.11
+P020,Kifaru Kitchenware 2,Home & Kitchen,Kitchenware,Kifaru,5381.43
+P021,Savanna Kitchenware 3,Home & Kitchen,Kitchenware,Savanna,2771.37
+P022,UrbanPlus Kitchenware 4,Home & Kitchen,Kitchenware,UrbanPlus,5050.21
+P023,HomePro Kitchenware 5,Home & Kitchen,Kitchenware,HomePro,10277.49
+P024,ValueMax Kitchenware 6,Home & Kitchen,Kitchenware,ValueMax,2998.79
+P025,Nova Small Appliances 1,Home & Kitchen,Small Appliances,Nova,935.06
+P026,Kifaru Small Appliances 2,Home & Kitchen,Small Appliances,Kifaru,3556.26
+P027,Savanna Small Appliances 3,Home & Kitchen,Small Appliances,Savanna,3699.73
+P028,UrbanPlus Small Appliances 4,Home & Kitchen,Small Appliances,urbanplus,8027.52
+P029,HomePro Small Appliances 5,Home & Kitchen,Small Appliances,HomePro,6795.13
+P030,ValueMax Small Appliances 6,Home & Kitchen,Small Appliances,ValueMax,9460.8
+P031,Nova Home Care 1,Home & Kitchen,Home Care,Nova,8055.68
+P032,Kifaru Home Care 2,Home & Kitchen,Home Care,Kifaru,5025.05
+P033,Savanna Home Care 3,Home & Kitchen,Home Care,Savanna,9814.74
+P034,UrbanPlus Home Care 4,Home & Kitchen,Home Care,UrbanPlus,2211.93
+P035,HomePro Home Care 5,Home & Kitchen,Home Care,HomePro,516.87
+P036,ValueMax Home Care 6,Home & Kitchen,Home Care,ValueMax,1308.06
+P037,Nova Beverages 1,Grocery,Beverages,Nova,8737.72
+P038,Kifaru Beverages 2,Grocery,Beverages,Kifaru,5677.06
+P039,Savanna Beverages 3,Grocery,Beverages,Savanna,2144.94
+P040,UrbanPlus Beverages 4,Grocery,Beverages,UrbanPlus,6137.28
+P041,HomePro Beverages 5,Grocery,Beverages,HomePro,2039.67
+P042,ValueMax Beverages 6,Grocery,Beverages,ValueMax,8431.76
+P043,Nova Packaged Food 1,Grocery,Packaged Food,Nova,5492.34
+P044,Kifaru Packaged Food 2,Grocery,Packaged Food,Kifaru,4727.0
+P045,Savanna Packaged Food 3,Grocery,Packaged Food,Savanna,3792.77
+P046,UrbanPlus Packaged Food 4,Grocery,Packaged Food,UrbanPlus,7655.82
+P047,HomePro Packaged Food 5,Grocery,Packaged Food,HomePro,4501.3
+P048,ValueMax Packaged Food 6,Grocery,Packaged Food,ValueMax,1279.89
+P049,Nova Household 1,Grocery ,Household,Nova,1636.57
+P050,Kifaru Household 2,Grocery,Household,Kifaru,11552.3
+P051,Savanna Household 3,Grocery,Household,Savanna,10925.82
+P052,UrbanPlus Household 4,Grocery,Household,UrbanPlus,8471.56
+P053,HomePro Household 5,Grocery,Household,HomePro,3373.97
+P054,ValueMax Household 6,Grocery,Household,ValueMax,11637.82
+P055,Nova Skincare 1,Beauty,Skincare,Nova,9400.32
+P056,Kifaru Skincare 2,Beauty,Skincare,Kifaru,8673.46
+P057,Savanna Skincare 3,Beauty,Skincare,Savanna,5530.0
+P058,UrbanPlus Skincare 4,Beauty,Skincare,UrbanPlus,3448.84
+P059,HomePro Skincare 5,Beauty,Skincare,HomePro,1382.59
+P060,ValueMax Skincare 6,Beauty,Skincare,ValueMax,10855.58
+P061,Nova Haircare 1,Beauty,Haircare,Nova,5605.37
+P062,Kifaru Haircare 2,Beauty,Haircare,Kifaru,2627.77
+P063,Savanna Haircare 3,Beauty,Haircare,Savanna,3844.99
+P064,UrbanPlus Haircare 4,Beauty,Haircare,urbanplus,7055.83
+P065,HomePro Haircare 5,Beauty,Haircare,HomePro,2327.08
+P066,ValueMax Haircare 6,Beauty,Haircare,ValueMax,10315.22
+P067,Nova Personal Care 1,Beauty,Personal Care,Nova,9162.6
+P068,Kifaru Personal Care 2,Beauty,Personal Care,Kifaru,8703.69
+P069,Savanna Personal Care 3,Beauty,Personal Care,Savanna,5327.09
+P070,UrbanPlus Personal Care 4,Beauty,Personal Care,UrbanPlus,7620.88
+P071,HomePro Personal Care 5,Beauty,Personal Care,HomePro,7113.15
+P072,ValueMax Personal Care 6,Beauty,Personal Care,ValueMax,7885.7
+P073,Nova Menswear 1,Fashion,Menswear,Nova,1242.22
+P074,Kifaru Menswear 2,Fashion,Menswear,Kifaru,5135.74
+P075,Savanna Menswear 3,Fashion,Menswear,Savanna,738.97
+P076,UrbanPlus Menswear 4,Fashion,Menswear,UrbanPlus,6054.39
+P077,HomePro Menswear 5,Fashion,Menswear,HomePro,4125.87
+P078,ValueMax Menswear 6,Fashion,Menswear,ValueMax,1948.16
+P079,Nova Womenswear 1,Fashion,Womenswear,Nova,1464.98
+P080,Kifaru Womenswear 2,Fashion,Womenswear,Kifaru,7154.82
+P081,Savanna Womenswear 3,Fashion,Womenswear,Savanna,2254.47
+P082,UrbanPlus Womenswear 4,Fashion,Womenswear,UrbanPlus,11120.16
+P083,HomePro Womenswear 5,Fashion,Womenswear,HomePro,7077.47
+P084,ValueMax Womenswear 6,Fashion,Womenswear,ValueMax,4325.72
+P085,Nova Kidswear 1,Fashion,Kidswear,Nova,7193.26
+P086,Kifaru Kidswear 2,Fashion,Kidswear,Kifaru,517.95
+P087,Savanna Kidswear 3,Fashion,Kidswear,Savanna,11513.07
+P088,UrbanPlus Kidswear 4,Fashion,Kidswear,UrbanPlus,5917.07
+P089,HomePro Kidswear 5,Fashion,Kidswear,HomePro,9447.14
+P090,ValueMax Kidswear 6,Fashion,Kidswear,ValueMax,1222.08
